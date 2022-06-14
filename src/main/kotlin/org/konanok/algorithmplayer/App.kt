@@ -1,4 +1,4 @@
-package org.konanok.aplayer
+package org.konanok.algorithmplayer
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
@@ -8,7 +8,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.window.Window
 import androidx.compose.ui.window.application
 import androidx.compose.ui.window.rememberWindowState
-import org.konanok.aplayer.ui.player.PlayerView
+import org.konanok.algorithmplayer.ui.player.PlayerView
+
 
 fun main() = application {
     Window(
@@ -24,4 +25,3 @@ fun main() = application {
         }
     }
 }
-

@@ -17,6 +17,6 @@ dependencies {
 
 compose.desktop {
     application {
-        mainClass = "org.konanok.aplayer.AppKt"
+        mainClass = "org.konanok.algorithmplayer.AppKt"
     }
 }

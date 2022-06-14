@@ -1,4 +1,4 @@
-package org.konanok.aplayer.ui.player
+package org.konanok.algorithmplayer.ui.player
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.background
