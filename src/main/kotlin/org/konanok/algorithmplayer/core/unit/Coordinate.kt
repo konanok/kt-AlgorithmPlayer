@@ -1,4 +1,4 @@
-package org.konanok.algorithmplayer.ui.player.unit
+package org.konanok.algorithmplayer.core.unit
 
 data class Coordinate(
     val x: Int,

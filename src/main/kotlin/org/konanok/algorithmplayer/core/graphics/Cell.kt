@@ -1,4 +1,4 @@
-package org.konanok.algorithmplayer.ui.player.component
+package org.konanok.algorithmplayer.core.graphics
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -17,8 +17,8 @@ import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.DpOffset
 import androidx.compose.ui.unit.DpSize
 import androidx.compose.ui.unit.dp
-import org.konanok.algorithmplayer.ui.player.unit.Coordinate
-import org.konanok.algorithmplayer.ui.player.unit.Size
+import org.konanok.algorithmplayer.core.unit.Coordinate
+import org.konanok.algorithmplayer.core.unit.Size
 
 
 private const val CellBorderWidth = 1
